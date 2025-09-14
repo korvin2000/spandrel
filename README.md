@@ -106,7 +106,9 @@ Spandrel currently supports a limited amount of network architectures. If the ar
 - [DRCT](https://github.com/ming053l/DRCT)
 - [PLKSR](https://github.com/dslisleedh/PLKSR) and [RealPLKSR](https://github.com/muslll/neosr/blob/master/neosr/archs/realplksr_arch.py) | [Models](https://drive.google.com/drive/u/1/folders/1lIkZ00y9cRQpLU9qmCIB2XtS-2ZoqKq8)
 - [SeemoRe](https://github.com/eduardzamfir/seemoredetails) | [Models](https://drive.google.com/drive/folders/15jtvcS4jL_6QqEwaRodEN8FBrqVPrO2u?usp=share_link)
-- [MoSR](https://github.com/umzi2/MoSR) | [Models](https://drive.google.com/drive/u/0/folders/1HPy7M4Zzq8oxhdsQ2cnfqy73klmQWp_r)
+- [MoSR](https://github.com/umzi2/MoSR) | [Models](https://drive.google.com/drive/u/0/folders/1HPy7M4Zzq8oxhdsQ2cnfqy73klmQWp_r) | [RealTime Models](https://drive.google.com/drive/u/1/folders/1Oe88y4qgHRY0dsv_0Q2P0a9hysd-rkvz)
+- [SPANPlus](https://github.com/umzi2/spanplus) | [Models](https://drive.google.com/drive/u/0/folders/1UQbK4i5yU-41m5yrjP33V994msMvSEA2?hl=ru)
+- [Sebica](https://github.com/idiosyncracies/Sebica/) | [Models](https://github.com/idiosyncracies/Sebica/tree/main/logs/ckpts)
 - [MoESR](https://github.com/umzi2/MoESR) | [Models](https://github.com/the-database/traiNNer-redux/releases/download/pretrained-models/4x_DF2K_MoESR_500k.safetensors)
 - [RCAN](https://github.com/yulunzhang/RCAN) | [Models](https://www.dropbox.com/s/qm9vc0p0w9i4s0n/models_ECCV2018RCAN.zip?dl=0)
 
